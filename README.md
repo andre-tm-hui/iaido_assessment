@@ -50,7 +50,7 @@ A very basic banking app built in Flutter.
 
 2. Run `dart run build_runner build --delete-conflicting-outputs` to generate files for the drift DB.
 
-3. Build and deploy as normal. (You may have to run `flutter create --platforms web/ios/android` before building for the respective platforms)
+3. Run or build the app as normal (`flutter run`/`flutter build`).
 
 #### Testing
 
