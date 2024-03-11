@@ -58,6 +58,8 @@ To run the tests, run `flutter test`.
 
 Since we're using drift, testing the database requires a sqlite3 installation. Follow the above for more instructions. These tests are skipped by default, but if you have sqlite3 installed/in your path, you can run them using `flutter test --run-skipped`.
 
+> Bug: There is a test that occasionally fails when run from `flutter test`. As far as I can tell, it doesn't fail when running through the VSCode Test Explorer.
+
 ## Notes
 
 ### Architecture
