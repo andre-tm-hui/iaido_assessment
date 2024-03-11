@@ -42,6 +42,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# build_runner generated files
+*.g.dart
+
 /coverage
 
 /.vscode
