@@ -93,3 +93,5 @@ For usability, keeping widgets simple and minimal was the target.
 #### Other
 
 One thing inspired by the original assessment examples is an expanding text field (non-standard in Flutter). Purely just because I like how it interacts and keeps everything centered, I made a TextField that shrinks and expands with the size of the text. This way, the '£' is always directly left of the amount value.
+
+Built and tested on Windows 11. Android and Web are tested. iOS is not.
