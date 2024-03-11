@@ -2,6 +2,16 @@
 
 A very basic banking app built in Flutter.
 
+![image](https://github.com/andre-tm-hui/iaido-assessment/assets/34312863/0fa2bec2-9d91-4b56-93cf-6c20481b166d)
+
+![image](https://github.com/andre-tm-hui/iaido-assessment/assets/34312863/2dfc8980-a164-4f35-a570-38b727ff2e11)
+
+![image](https://github.com/andre-tm-hui/iaido-assessment/assets/34312863/68d1b636-ba7b-4aa5-a6b9-0c3fbcb4e311)
+
+![image](https://github.com/andre-tm-hui/iaido-assessment/assets/34312863/7f534108-2181-4046-ad99-7edb0060911c)
+
+
+
 ## Primary Requirements
 
 - GetX for state management and page routing
